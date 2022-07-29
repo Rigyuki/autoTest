@@ -1,0 +1,15 @@
+F:\hyclr\batTest\ProTest\ProTest\bin\Debug\net6.0\ProTest.deps.json
+F:\hyclr\batTest\ProTest\ProTest\bin\Debug\net6.0\ProTest.dll
+F:\hyclr\batTest\ProTest\ProTest\bin\Debug\net6.0\ProTest.pdb
+F:\hyclr\batTest\ProTest\ProTest\obj\Debug\net6.0\ProTest.csproj.AssemblyReference.cache
+F:\hyclr\batTest\ProTest\ProTest\obj\Debug\net6.0\ProTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\hyclr\batTest\ProTest\ProTest\obj\Debug\net6.0\ProTest.AssemblyInfoInputs.cache
+F:\hyclr\batTest\ProTest\ProTest\obj\Debug\net6.0\ProTest.AssemblyInfo.cs
+F:\hyclr\batTest\ProTest\ProTest\obj\Debug\net6.0\ProTest.csproj.CoreCompileInputs.cache
+F:\hyclr\batTest\ProTest\ProTest\obj\Debug\net6.0\ProTest.dll
+F:\hyclr\batTest\ProTest\ProTest\obj\Debug\net6.0\refint\ProTest.dll
+F:\hyclr\batTest\ProTest\ProTest\obj\Debug\net6.0\ProTest.pdb
+F:\hyclr\batTest\ProTest\ProTest\obj\Debug\net6.0\ref\ProTest.dll
+F:\hyclr\batTest\ProTest\ProTest\bin\Debug\net6.0\ProTest.exe
+F:\hyclr\batTest\ProTest\ProTest\bin\Debug\net6.0\ProTest.runtimeconfig.json
+F:\hyclr\batTest\ProTest\ProTest\obj\Debug\net6.0\ProTest.genruntimeconfig.cache
