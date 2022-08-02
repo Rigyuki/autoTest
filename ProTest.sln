@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProTest", "ProTest\ProTest.csproj", "{E6CA6C9B-7BE7-4546-A591-0428A21841D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProTest", "ProTest\ProTest.csproj", "{E6CA6C9B-7BE7-4546-A591-0428A21841D8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{324B39E2-1992-49D7-B328-B04C3DFBF605}"
+	ProjectSection(SolutionItems) = preProject
+		E:\Windows\assembly\GAC_MSIL\System.Management.Automation\1.0.0.0__31bf3856ad364e35\System.Management.Automation.dll = E:\Windows\assembly\GAC_MSIL\System.Management.Automation\1.0.0.0__31bf3856ad364e35\System.Management.Automation.dll
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,296 @@
+
+#### fail cases ####
+
+
+========================
+total:1694
+succ:1694
+fail:0
+========================
+AS: AutoStreaming module initializing.Initialize engine version: 2020.3.33f1c2 (8e753a737e7b)
+[Subsystems] Discovering subsystems at path F:/hyclr/batTest/ProTest/ProTest/bin/Debug/net6.0/hybridclr_test/Release-Win64/HybridCLRTest_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     4021 MB
+    Driver:   23.21.13.9125
+<RI> Initializing input.
+New input system (experimental) initialized
+<RI> Initialized touch support.
+UnloadTime: 4.554200 ms
+start download dll:Tests.dll
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+dll:Tests.dll  size:599552
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+start download dll:BootstrapTests.dll
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+dll:BootstrapTests.dll  size:15360
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+start download dll:mscorlib.dll
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+dll:mscorlib.dll  size:3830784
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+start download dll:System.dll
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+dll:System.dll  size:2265600
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+start download dll:System.Core.dll
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+dll:System.Core.dll  size:1051648
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+start download dll:Main.dll
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+dll:Main.dll  size:64512
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LoadMetadataForAOTAssembly:mscorlib.dll. ret:0
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+TestRunner:LoadAOTAssemblyMetadatas()
+TestRunner:InitTestContext()
+LoadDll:StartRunner()
+System.CrossAppDomainDelegate:Invoke()
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LoadMetadataForAOTAssembly:System.dll. ret:0
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+TestRunner:LoadAOTAssemblyMetadatas()
+TestRunner:InitTestContext()
+LoadDll:StartRunner()
+System.CrossAppDomainDelegate:Invoke()
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LoadMetadataForAOTAssembly:System.Core.dll. ret:0
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+TestRunner:LoadAOTAssemblyMetadatas()
+TestRunner:InitTestContext()
+LoadDll:StartRunner()
+System.CrossAppDomainDelegate:Invoke()
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LoadMetadataForAOTAssembly:Main.dll. ret:0
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+TestRunner:LoadAOTAssemblyMetadatas()
+TestRunner:InitTestContext()
+LoadDll:StartRunner()
+System.CrossAppDomainDelegate:Invoke()
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+total:1694 succ:1694 fail:0
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+TestReporter:GenerateStatisticReport()
+TestRunner:Run()
+LoadDll:StartRunner()
+System.CrossAppDomainDelegate:Invoke()
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Curl error 42: Callback aborted
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 8a5c -> priority: 1 
+  Thread -> id: 474 -> priority: 1 
+
+#### fail cases ####
+
+
+========================
+total:1694
+succ:1694
+fail:0
+========================
+AS: AutoStreaming module initializing.Initialize engine version: 2020.3.33f1c2 (8e753a737e7b)
+[Subsystems] Discovering subsystems at path F:/hyclr/batTest/ProTest/ProTest/bin/Debug/net6.0/hybridclr_test/Release-Win64/HybridCLRTest_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     4021 MB
+    Driver:   23.21.13.9125
+<RI> Initializing input.
+New input system (experimental) initialized
+<RI> Initialized touch support.
+UnloadTime: 4.554200 ms
+start download dll:Tests.dll
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+dll:Tests.dll  size:599552
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+start download dll:BootstrapTests.dll
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+dll:BootstrapTests.dll  size:15360
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+start download dll:mscorlib.dll
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+dll:mscorlib.dll  size:3830784
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+start download dll:System.dll
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+dll:System.dll  size:2265600
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+start download dll:System.Core.dll
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+dll:System.Core.dll  size:1051648
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+start download dll:Main.dll
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+dll:Main.dll  size:64512
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LoadMetadataForAOTAssembly:mscorlib.dll. ret:0
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+TestRunner:LoadAOTAssemblyMetadatas()
+TestRunner:InitTestContext()
+LoadDll:StartRunner()
+System.CrossAppDomainDelegate:Invoke()
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LoadMetadataForAOTAssembly:System.dll. ret:0
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+TestRunner:LoadAOTAssemblyMetadatas()
+TestRunner:InitTestContext()
+LoadDll:StartRunner()
+System.CrossAppDomainDelegate:Invoke()
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LoadMetadataForAOTAssembly:System.Core.dll. ret:0
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+TestRunner:LoadAOTAssemblyMetadatas()
+TestRunner:InitTestContext()
+LoadDll:StartRunner()
+System.CrossAppDomainDelegate:Invoke()
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LoadMetadataForAOTAssembly:Main.dll. ret:0
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+TestRunner:LoadAOTAssemblyMetadatas()
+TestRunner:InitTestContext()
+LoadDll:StartRunner()
+System.CrossAppDomainDelegate:Invoke()
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+total:1694 succ:1694 fail:0
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+TestReporter:GenerateStatisticReport()
+TestRunner:Run()
+LoadDll:StartRunner()
+System.CrossAppDomainDelegate:Invoke()
+<DownLoadDlls>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Curl error 42: Callback aborted
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 8a5c -> priority: 1 
+  Thread -> id: 474 -> priority: 1 
